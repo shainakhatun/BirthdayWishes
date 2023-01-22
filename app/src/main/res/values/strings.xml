@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BirthdayWishes</string>
+    <string name="enter_your_name_here">Enter Your Name Here :)</string>
+    <string name="name">Name....</string>
+    <string name="click">Click</string>
+    <string name="happy_birthday">Happy Birthday....:)</string>
+</resources>
